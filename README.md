@@ -1,5 +1,5 @@
-ModdingTut
+ModdingTutorial
 ==========
 
-ModdingTut
+ModdingTutorial
 Ez a Github Repository a YouTube csatornámon lévő Minecraft Modding Sorozatomhoz van, használjátok egészséggel!
