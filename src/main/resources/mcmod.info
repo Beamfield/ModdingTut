@@ -1,0 +1,16 @@
+[
+{
+  "modid": "youtubetut",
+  "name": "YouTube Tutorial",
+  "description": "Ez a mod egy Tutorial",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Beamfield"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
